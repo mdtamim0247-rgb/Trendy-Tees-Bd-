@@ -1,1 +1,37 @@
 
+{
+  "id": "./",
+  "name": "Trendy Tees BD — Premium Streetwear",
+  "short_name": "Trendy Tees",
+  "description": "Where style meets comfort. Premium streetwear from Bangladesh.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f4f0",
+  "theme_color": "#111111",
+  "categories": ["shopping", "lifestyle"],
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
+
+
